@@ -31,3 +31,16 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### eclipse ###
+.settings/
+.project
+.classpath
+
+### temp ###
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+app.jar
